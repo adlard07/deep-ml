@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**3** solved · 0 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-16 | [solution](math/0009-matrix-basics) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-16 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-18 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
