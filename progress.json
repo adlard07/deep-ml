@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:20:05.244Z",
+  "generated_at": "2026-10-18T07:27:42.403Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-18T07:20:05.135Z",
       "last_pushed_at": "2026-10-18T07:20:05.135Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-18T07:27:40.364Z",
+      "last_pushed_at": "2026-10-18T07:27:40.364Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
