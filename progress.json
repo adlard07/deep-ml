@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:27:42.403Z",
+  "generated_at": "2026-10-18T07:29:51.896Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -44,6 +44,19 @@
       "path": "problems/0121-vector-element-wise-sum",
       "first_solved_at": "2026-10-18T07:27:40.364Z",
       "last_pushed_at": "2026-10-18T07:27:40.364Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-18T07:29:51.642Z",
+      "last_pushed_at": "2026-10-18T07:29:51.642Z",
       "language": "python",
       "lines": 4
     }

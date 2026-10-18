@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 1 problems · 0 labs · 3 math
+**5** solved · 2 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-18 | [solution](problems/0083-dot-product-calculator) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-18 | [solution](problems/0121-vector-element-wise-sum) |
 
 ## Math
